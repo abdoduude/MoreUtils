@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreutils",
+  "name": "More Utils",
+  "description": "Example utility mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["abdoduude, xliquid"],
+  "credits": "The Forge and FML NIGGAHS, for making this EJEMPLO",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
